@@ -18,7 +18,7 @@ This website is built with:
 - Vanilla JavaScript
 - Hosted on GitHub Pages
 
-### Some more about me:
+### Some More About Me
 
 - 🔭 I’m currently working on a personal website (you're on it) and a stealth project
 - 🌱 I’m currently learning how to build an MVP
@@ -27,19 +27,9 @@ This website is built with:
 - 💬 Ask me about product strategy, history, and content creation  
 - 📫 How to reach me: brooklynfbeltran@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I read history for fun 
+- ⚡ Fun fact: I read history for fun
 
-<!--
-**bravemayhem/bravemayhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
+If you'd like to reach out, you can email me at brooklynfbeltran@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+© 2024 Brooklyn Beltran. All rights reserved.
