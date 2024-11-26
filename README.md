@@ -1,4 +1,4 @@
-## Hi there 👋 
+## My Personal Website
 
 Welcome to the repository for my personal website! This site serves as a digital home for my professional journey, creative projects, and thoughts.
 
