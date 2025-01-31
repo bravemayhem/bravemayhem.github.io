@@ -92,6 +92,7 @@ color: var(--secondary-color);
 margin-bottom: 0.5rem;
 }
 
+/* Project link button styles */
 .project-link {
 display: inline-block;
 margin-top: 0rem;
