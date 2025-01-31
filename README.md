@@ -17,18 +17,7 @@ This website is built with:
 - Vanilla JavaScript
 - Hosted on GitHub Pages
 
-### Some More About Me
-
-- 🔭 I’m currently working on a personal website (you're on it) and a stealth project
-- 🌱 I’m currently learning how to build an MVP
-- 👯 I’m looking to collaborate on start-up ideas, podcasts, and content-creation activities 
-- 🤔 I’m looking for help with building a company 
-- 💬 Ask me about product strategy, history, and content creation  
-- 📫 How to reach me: brooklynfbeltran@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I read history for fun
-
 ### Contact
 If you'd like to reach out, you can email me at brooklynfbeltran@gmail.com
 
-© 2024 Brooklyn Beltran. All rights reserved.
+© 2025 Brooklyn Beltran. All rights reserved.
